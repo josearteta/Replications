@@ -1,2 +1,2 @@
 # Replications
-Replication files for distinct papers in the social sciences
+Replication files for various papers in the social sciences
